@@ -1,0 +1,6 @@
+import tensorflow as tf
+
+if tf.config.list_physical_devices('GPU'):
+    !nvidia-smi
+else:
+    print("No GPU found")
