@@ -41,3 +41,6 @@
   
 ## Python Version
 - **Python**: 3.11.4
+
+## Installed Packages
+For a complete list of installed packages, refer to the file [`installed_packages.txt`](./installed_packages.txt) located in the root directory.
