@@ -38,6 +38,9 @@
 - **Available**: 259Gi
 - **Usage Percentage**: 7%
 - **Mounted on**: N/A
+
+## code for system configyration
+Detailed code in https://raw.githubusercontent.com/STATS201-DKU-Autumn2024/Week2-Shilin-OU/refs/heads/main/System%20Configuration%20Report.ipynb
   
 ## Python Version
 - **Python**: 3.11.4
@@ -45,7 +48,7 @@
 ## Installed Packages
 For a complete list of installed packages, refer to the file [`installed_packages.txt`](./installed_packages.txt) located in the root directory.
 
-### Dependency Setup
+## Dependency Setup
 To set up dependencies in your environment, run the following command:
 
 ```bash
