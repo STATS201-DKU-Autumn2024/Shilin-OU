@@ -44,3 +44,9 @@
 
 ## Installed Packages
 For a complete list of installed packages, refer to the file [`installed_packages.txt`](./installed_packages.txt) located in the root directory.
+
+### Dependency Setup
+To set up dependencies in your environment, run the following command:
+
+```bash
+pip install -r installed_packages.txt
