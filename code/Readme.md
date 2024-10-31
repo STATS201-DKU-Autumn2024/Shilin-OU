@@ -11,7 +11,7 @@ The linear regression model results indicate a strong predictive performance, as
 
 ## Note 
 Detailed code in https://raw.githubusercontent.com/STATS201-DKU-Autumn2024/Week2-Shilin-OU/refs/heads/main/code/code.ipynb
-Detailed figures in 
+Detailed figures in https://github.com/STATS201-DKU-Autumn2024/Week2-Shilin-OU/blob/main/code/Figures.docx
 
 
 
