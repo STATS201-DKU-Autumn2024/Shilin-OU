@@ -6,7 +6,7 @@
 ## References
 Calcaterra, M., Reis, L. A., P. Fragkos, T. Briera, de, S., Egli, F., Emmerling, J., Iyer, G., Mittal, S., Polzin, J., Sanders, L., Schmidt, T. S., A. Serebriakova, Steffen, B., van, Vuuren, van, Waidelich, P., & M. Tavoni. (2024). Reducing the cost of capital to finance the energy transition in developing countries. Nature Energy. https://doi.org/10.1038/s41560-024-01606-7
 ## Notes
-detaled data in Global_Energy_Scenario_Modeling_Data.csv
+detaled data in [Global_Energy_Scenario_Modeling_Data.csv](https://raw.githubusercontent.com/STATS201-DKU-Autumn2024/Week2-Shilin-OU/refs/heads/main/data/Global_Energy_Scenario_Modeling_Data.csv)
 ## Data Dictionaries
 ### Table 1: Global Energy Scenario Modeling Dataset Data Dictionary
 | Variable Name | Definition                                                                                                                   | Range (Date & Value)                  | Frequency                                                                                          |
